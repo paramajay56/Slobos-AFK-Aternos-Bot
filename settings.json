@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Ajayrahul56.aternos.me:23776",
-    "port": :23776,
+    "port": :"23776",
     "version": "",
     "try-creative": false
   },
